@@ -7,9 +7,13 @@ I have a Bachelor’s degree in Psychology and one of the most interesting serie
 ### Questions:  
 
 •	What’s the breakdown of chess players by country?
+
 •	What’s the breakdown of chess player ranks by country? 
+
 •	Is there a correlation between education quality and having more chess players?
+
 •	Is there a correlation between education quality and having more highly ranked chess players?
+
 •	Is there a stronger correlation between chess players than education, such as GDP or population?
 
 ### Process and Normalization:
@@ -25,12 +29,17 @@ After that, all that remained was visualizing the data and trimming it down to t
 ### Data Sources and Technologies:
 
 FIDE: the International Chess Federation.
+
 Worldtop20.org: education quality rating website.
+
 Worldpopulationreview.com: country GDP and population data.
+
 Iban.com: official country abbreviations list.
+
 https://en.wikipedia.org/wiki/Chess_rating_system: Where I pulled the ranking categories themselves from.
 
 Python: database merging, data cleaning, correlations, miscellaneous stuff.
+
 Tableau: interactive dashboards.
 
 ### Conclusions, and Next Steps:
